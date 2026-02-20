@@ -1,0 +1,1 @@
+# HuggingFace OCR Finetunning Example
